@@ -58,39 +58,39 @@ Ethical considerations regarding privacy and consent are addressed, emphasizing 
 
 1. **Home Page**: 
     - Login or register a new user account.
-    ![Home Page](screenshots/home_page.png)
+    ![Home Page](ProjectScreenshots/Homepage.png)
 
 2. **Upload Audio**: 
     - Upload the audio sample to be cloned.
-    ![Upload Audio](screenshots/upload_audio.png)
+    ![Upload Audio](ProjectScreenshots/uploadaudiofile.png)
 
 3. **Enter Text**: 
     - Enter the text to be synthesized in the uploaded voice.
-    ![Enter Text](screenshots/enter_text.png)
+    ![Enter Text](ProjectScreenshots/EnterText.png)
 
 4. **Generated Voice**: 
     - Listen to the generated voice and download the audio file.
-    ![Generated Voice](screenshots/generated_voice.png)
+    ![Generated Voice](ProjectScreenshots/Generatedoutput.png)
 
 ## Screenshots
 
 ### Terminal - Starting the Application
-![Terminal](screenshots/terminal.png)
+![Terminal](ProjectScreenshots/runserver.png)
 
 ### Home Page - User Interface
-![Home Page](screenshots/home_page.png)
+![Home Page](ProjectScreenshots/Homepage.png)
 
 ### Collecting Audio
-![Collecting Audio](screenshots/collecting_audio.png)
+![Collecting Audio](ProjectScreenshots/uploadaudiofile.png)
 
 ### Entering Text
-![Entering Text](screenshots/enter_text.png)
+![Entering Text](ProjectScreenshots/EnterText.png)
 
 ### Generated Cloned Voice Output
-![Generated Voice](screenshots/generated_voice.png)
+![Generated Voice](ProjectScreenshots/Generatedoutput.png)
 
 ### Background Data Processing
-![Background Data Processing](screenshots/background_data_processing.png)
+![Background Data Processing](ProjectScreenshots/Backgrounddata.png)
 
 ## Conclusion
 
